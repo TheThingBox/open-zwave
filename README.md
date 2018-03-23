@@ -1,4 +1,4 @@
-Open-ZWave Library
+Open-ZWave Library (The thing Box)
 ==================
 
 Our goal is to create free software library that interfaces with selected Z-Wave PC controllers, allowing anyone to create applications that manipulate and respond to devices on a Z-Wave network, without requiring in-depth knowledge of the Z-Wave protocol.
